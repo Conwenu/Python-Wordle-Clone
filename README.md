@@ -6,4 +6,4 @@
 Python
 
 ## Installation
-Once you've cloned the repository you may need to install `colorama` but once that is done you can run from the main function in the `start_game.py` file.
+Once you've cloned the repository you may need to install `colorama` but once that is done you can simply run the main function in the `start_game.py` file.
